@@ -1,6 +1,6 @@
 # Connect Four AI (Minimax)
 
-Dette prosjektet er en implementasjon av Fire på rad med en AI-motstander basert på minimax-algoritmen. 
+Dette prosjektet er en implementasjon av Fire på rad med en AI-motstander basert på minimax-algoritmen. Det ble gjort som et sideprosjekt under VGS.
 
 ## Om prosjektet
 
